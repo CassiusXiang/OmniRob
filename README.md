@@ -23,7 +23,7 @@ Feature
 Installation and Useage
 --
 
-Please refer to the [installation guide](https://github.com/CassiusXiang/OmniRob/blob/Installation.md) for detailed instructions on how to install and use OmniRob.
+Please refer to the [installation guide](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md) for detailed instructions on how to install and use OmniRob.
 
 License
 ---
