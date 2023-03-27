@@ -20,11 +20,6 @@ OmniTrack是一个开源项目，旨在为学生、教育工作者、爱好者�
 
 请参考[安装指南](https://github.com/yourusername/OmniTrack/wiki/Installation)获取关于如何安装和使用OmniTrack的详细说明。
 
-贡献
---
-
-我们欢迎并鼓励所有人为OmniTrack做出贡献。请参考[贡献指南](https://github.com/yourusername/OmniTrack/blob/main/CONTRIBUTING.md)获取关于如何为OmniTrack做出贡献的详细说明。
-
 许可证
 ---
 
