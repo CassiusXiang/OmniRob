@@ -25,11 +25,7 @@
 
 1. **下载代码**
 
-   在Github上下载麦卡纳姆轮智能小车代码。可以使用以下命令在终端上进行克隆操作：
-
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   ```
+   在[main.ino](https://github.com/CassiusXiang/OmniRob/tree/main/Software/main)上下载麦卡纳姆轮智能小车代码。可以使用以下命令在终端上进行克隆操作：
 
 2. **连接硬件**
 
