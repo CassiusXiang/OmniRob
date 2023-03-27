@@ -98,5 +98,3 @@ $$
 4. Cohen-Coon
 
 ![PID的调参过程](image/PID_Compensation_Animated.gif)
-
-PID的调参过程
