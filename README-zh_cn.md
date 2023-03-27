@@ -20,14 +20,14 @@ OmniRob是一个开源项目，旨在为学生、教育工作者、爱好者以�
 安装和使用
 --
 
-请参考[安装指南](https://github.com/yourusername/OmniTrack/wiki/Installation)获取关于如何安装和使用OmniRob的详细说明。
+请参考[安装指南](https://github.com/CassiusXiang/OmniRob/Installation.md)获取关于如何安装和使用OmniRob的详细说明。
 
 许可证
 ---
 
-OmniRob采用MIT许可证进行发布。请参考[LICENSE](https://github.com/yourusername/OmniTrack/blob/main/LICENSE)获取更多信息。
+OmniRob采用MIT许可证进行发布。请参考[LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE)获取更多信息。
 
 联系方式
 ----
 
-如果您有任何问题或反馈，请通过[Issues](https://github.com/yourusername/OmniTrack/issues)与我们联系。
+如果您有任何问题或反馈，请通过[Issues](https://github.com/CassiusXiang/OmniRob/issues)与我们联系。
