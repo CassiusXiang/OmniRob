@@ -23,11 +23,6 @@ Installation and Useage
 
 Please refer to the [installation guide](https://github.com/yourusername/OmniTrack/wiki/Installation) for detailed instructions on how to install and use OmniTrack.
 
-Contribution
---
-
-We welcome and encourage everyone to contribute to OmniTrack. Please refer to the [contribution guide](https://github.com/yourusername/OmniTrack/blob/main/CONTRIBUTING.md) for detailed instructions on how to contribute to OmniTrack.
-
 License
 ---
 
