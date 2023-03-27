@@ -23,12 +23,12 @@ OmniRob是一个开源项目，旨在为学生、教育工作者、爱好者以�
 安装和使用
 --
 
-请参考[安装指南]([https://github.com/CassiusXiang/OmniRob/Installation.md](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md))获取关于如何安装和使用OmniRob的详细说明。
+请参考[安装指南]([https://github.com/CassiusXiang/OmniRob/Installation.md](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md)获取关于如何安装和使用OmniRob的详细说明。
 
 许可证
 ---
 
-OmniRob采用MIT许可证进行发布。请参考[LICENSE]([https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE))获取更多信息。
+OmniRob采用MIT许可证进行发布。请参考[LICENSE]([https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE)获取更多信息。
 
 联系方式
 ----
