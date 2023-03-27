@@ -48,7 +48,7 @@ $$
 \end{bmatrix}
 $$
 
-![上图为本项目Mecanum轮的排列方式示意图](Mecanum%E8%BD%AE%203363f84e3a434ef4b5dac581a5a6ac8b/Untitled.png)
+![上图为本项目Mecanum轮的排列方式示意图](image/2.png)
 
 上图为本项目Mecanum轮的排列方式示意图
 
