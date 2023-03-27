@@ -47,7 +47,9 @@ $$
 \end{bmatrix}
 $$
 
-![Mecanum](image/2.png)
+<p align="center">
+  <img src="image/2.png" alt="Description of image" width="300px">
+</p>
 
 The above figure shows the layout diagram of the Mecanum wheels used in this project.
 
@@ -91,22 +93,33 @@ $$
 Solve for $(\\dot{x},\\dot{y},w)$:
 
 $$
-\bm{T}=\bm{M\cdot\ddot{\theta}}+\bm{D\cdot\dot{\theta}}
+{T}={M\cdot\ddot{\theta}}+{D\cdot\dot{\theta}}
 $$
 
 where:
 
 $$
-T=(T_1,T_2,T_3,T_4)^T\\\theta=(\theta_1,\theta_2,\theta_3,\theta_4)^T\\D=diag(D_1,D_2,D_3,D_4)
+T=(T_1,T_2,T_3,T_4)^T;
+\theta=(\theta_1,\theta_2,\theta_3,\theta_4)^T;
+D=diag(D_1,D_2,D_3,D_4)
 $$
 
 $T$ is the output torque of the motor, and $D$ is the coefficient matrix related to friction. The matrix $M$ is defined as:
 
 
 $$
- M=\begin{bmatrix}
-C&-B&B&D\\-B&C&B&D\\B&D&C&-B\\D&B&-B&C 
-\end{bmatrix}\\A=\frac{mR^2}{8}\\B=\frac{J_zR^2}{16(L+l)^2}\\C=A+B+J_r\\D=A-B
+M=
+\begin{bmatrix}
+C&-B&B&D\\
+-B&C&B&D\\
+B&D&C&-B\\
+D&B&-B&C 
+\end{bmatrix}
+;
+A=\frac{mR^2}{8};
+B=\frac{J_zR^2}{16(L+l)^2};
+C=A+B+J_r;
+D=A-B
 $$
 
 In subsequent algorithm design, the influence of torque $T$ should be considered.
