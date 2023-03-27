@@ -12,7 +12,7 @@ PID controller (proportional-integral-derivative controller) consists of proport
 
 PID can be reduced to PI, PD, P, and I controllers by reducing the control parameters.
 
-![Untitled](image/Untitled.png)
+![Untitled](image/3.png)
 
 Figure 1. Block diagram of the control loop of a PID controller
 
@@ -56,7 +56,7 @@ $$
 
 where $e(t)$ is the difference between the current temperature and the target temperature (positive), and the control effect curve is shown below:
 
-![Untitled](image/Untitled%201.png)
+![Untitled](image/1.png)
 
 ### Integral Unit (I)
 
