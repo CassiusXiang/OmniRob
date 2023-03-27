@@ -12,7 +12,7 @@ PID controller (proportional-integral-derivative controller) consists of proport
 
 PID can be reduced to PI, PD, P, and I controllers by reducing the control parameters.
 
-![图1.PID控制器的控制回路方块图](image/Untitled.png)
+![Untitled](image/Untitled.png)
 
 Figure 1. Block diagram of the control loop of a PID controller
 
