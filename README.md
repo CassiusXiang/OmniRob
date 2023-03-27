@@ -21,7 +21,7 @@ Feature
 Installation and Useage
 --
 
-Please refer to the [installation guide](https://github.com/yourusername/OmniRob/wiki/Installation) for detailed instructions on how to install and use OmniTrack.
+Please refer to the [installation guide](https://github.com/yourusername/OmniRob/wiki/Installation) for detailed instructions on how to install and use OmniRob.
 
 License
 ---
