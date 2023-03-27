@@ -10,7 +10,7 @@ PID控制器（比例-积分-微分控制器），由由比例单元、积分单
 
 PID可以减少控制参数，从而变成PI、PD、P、I控制器。
 
-![图1.PID控制器的控制回路方块图](image/Untitled.png)
+![图1.PID控制器的控制回路方块图](image/3.png)
 
 图1.PID控制器的控制回路方块图
 
@@ -52,7 +52,7 @@ $$
 
 其中：$e(t)$为目前温度与目标温度的差值（正值），控制效果曲线如下
 
-![Untitled](image/Untitled%201.png)
+![Untitled](image/1.png)
 
 ### 积分单元（Integral）
 
