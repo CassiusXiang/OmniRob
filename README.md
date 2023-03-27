@@ -28,9 +28,9 @@ Please refer to the [installation guide](https://github.com/CassiusXiang/OmniRob
 License
 ---
 
-OmniRob is released under the MIT License. Please refer to [LICENSE](https://github.com/yourusername/OmniRob/blob/main/LICENSE) for more information.
+OmniRob is released under the MIT License. Please refer to [LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE) for more information.
 
 Contact information
 ----
 
-If you have any questions or feedback, please contact us through [Issues](https://github.com/yourusername/OmniRob/issues).
+If you have any questions or feedback, please contact us through [Issues](https://github.com/CassiusXiang/OmniRob/issues).
