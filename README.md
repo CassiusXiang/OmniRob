@@ -3,12 +3,12 @@
 [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-green)](./README-zh_cn.md)
 
-OmniRob is an Arduino-based robot platform that can achieve functions such as omnidirectional movement, sensor detection, and program control.
+OmniRob is an omnidirectional mobile robot based on Mecanum wheels, supporting various expansion modules and functions such as line tracking.
 
 Introduction
 --
 
-OmniTrack is an open-source project aimed at providing a complete omnidirectional mobile robot platform for students, educators, enthusiasts, and anyone interested in robotics technology. Our goal is to provide an easy-to-use and scalable platform that users can use for teaching, research, development, and entertainment.
+OmniRob is an open-source project aimed at providing a complete omnidirectional mobile robot platform for students, educators, enthusiasts, and anyone interested in robotics technology. Our goal is to provide an easy-to-use and scalable platform that users can use for teaching, research, development, and entertainment.
 
 Feature
 --
@@ -21,14 +21,14 @@ Feature
 Installation and Useage
 --
 
-Please refer to the [installation guide](https://github.com/yourusername/OmniTrack/wiki/Installation) for detailed instructions on how to install and use OmniTrack.
+Please refer to the [installation guide](https://github.com/yourusername/OmniRob/wiki/Installation) for detailed instructions on how to install and use OmniTrack.
 
 License
 ---
 
-OmniTrack is released under the MIT License. Please refer to [LICENSE](https://github.com/yourusername/OmniTrack/blob/main/LICENSE) for more information.
+OmniRob is released under the MIT License. Please refer to [LICENSE](https://github.com/yourusername/OmniRob/blob/main/LICENSE) for more information.
 
 Contact information
 ----
 
-If you have any questions or feedback, please contact us through [Issues](https://github.com/yourusername/OmniTrack/issues).
+If you have any questions or feedback, please contact us through [Issues](https://github.com/yourusername/OmniRob/issues).
