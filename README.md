@@ -5,7 +5,7 @@
 
 OmniRob is an omnidirectional mobile robot based on Mecanum wheels, supporting various expansion modules and functions such as line tracking.
 
-![Untitled](Control Algorithms/image/main.4.png)
+![Untitled](image/main.4.png)
 
 Introduction
 --
