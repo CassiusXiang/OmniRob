@@ -61,11 +61,6 @@ OmniRob是一个基于麦卡纳姆轮的全向移动小车
 
 https://www.youtube.com/watch?v=084VByHCzTs
 
-安装和使用
---
-
-见[安装指南](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md)
-
 许可证
 ---
 
