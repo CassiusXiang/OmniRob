@@ -4,70 +4,77 @@
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-green)](./README-zh_cn.md)
 ![YouTube Video Views](https://img.shields.io/youtube/views/084VByHCzTs)
 
-OmniRob is an omnidirectional mobile robot based on Mecanum wheels.
+OmniRob是一个基于麦卡纳姆轮的全向移动小车
 
-Featuring a modular design, the chassis supports four expansion modules. In this project, two modules are installed: a 4-way infrared sensor module and a material dispensing module.
+采用模块化设计，车身支持4个扩展模块，在本项目中安装了两个模块：4路红外传感器、物料投放模块
 
-## Introduction
+介绍
+--
 
-This project originated from a course I took in the first semester of my freshman year: Design and Construction.
+本项目起源于我在大一上学期参加的课程：设计与建造
 
-The course required us to design a vehicle that could both follow a track and dispense materials. Similar to traditional line-following cars, this vehicle runs along black lines on a white surface. The difference is that we also needed to equip it with a material storage and dispensing device, allowing the vehicle to accurately dispense objects at intersections on the track.
+课程要求我们设计一款既能循迹又能投放物料的小车。与传统循迹小车类似，该车辆将沿着白色场地中的黑色轨迹运行。不同之处在于，我们还需要为其配备一个物料储存和投放装置，使车辆在轨迹的交叉点处精准投放物体。
 
-![Track Layout](image/TrackLayout.png)
+![](image/TrackLayout.png)
 
-Thus, the OmniRob open-source project was born. It is an open-source, low-cost, easy-to-assemble, modularly designed Mecanum wheel robot. It uses four DC brushed motors with encoders, controlled by an Arduino. To drive the motors, I also designed a motor driver Shield board for the Arduino, which will be discussed later.
+所以便有了OmniRob这个开源项目，他是一个开源的、低成本的、组装简单的、模块化设计的麦卡纳姆轮小车。使用4个编码器直流有刷电机驱动，控制器使用Arduino，为了驱动电机，我还使用为Arduino设计了一块电机驱动Shield板，后面会提到。
 
-The top and front/back of the vehicle have four modular interfaces for installing different modules. We installed a 4-way infrared sensor at the front and a material storage and dispensing device driven by a servo motor at the top.
+车辆上端和前后一共有4个模块化接口，可以安装不同的模块，我们的前端安装了一个4路红外传感器，上端安装了一个由舵机驱动的物料储存与投放装置。
 
-![OmniRob](image/2.jpg)
+![](image/2.jpg)
 
-## Components
+材料表
+--
 
-1. 3D-printed chassis, top cover, dispensing mechanism
-2. 4 MG513 DC gear motors, gear ratio 1:30
-3. 4 Mecanum wheels with a diameter of 65mm
-4. Several M2.5 screws
-5. MG996R servo motor
+1. 3D打印的底壳，上盖板，投放机构
+2. 4个MG513直流减速电机，减速比1：30
+3. 4个直径65mm的麦卡纳姆轮
+4. 若干M2.5螺丝
+5. MG996R舵机
 6. Arduino UNO
-7. Custom 4-motor driver Shield (directly plugs into the Uno)
-8. 12V lithium battery
-9. 4-way infrared sensors
+7. 自制的4电机驱动Shield（直接插在Uno上）
+8. 12V锂电池
+9. 4路红外传感器
 
-**Total Cost ~\$40**
+**总成本 ~40$**
 
-For installation and internal structure, see the [Installation Guide](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md).
+安装与内部结构见[安装指南](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md)
 
-## Motor Driver Shield - MUNO
+## 驱动 Shield - MUNO
 
-The motor driver Shield uses a 2-layer PCB design, created with Altium Designer 2022.
+驱动Shield使用2层PCB设计，使用Altium Designer 2022设计
 
-The driver board uses four AS4950 chips to drive the motors, with a maximum driving current of up to 2A per channel.
+驱动板使用了4颗AS4950进行电机的驱动，驱动电流最大可达到单路2A
 
-![Shield](image/Shield.jpg)
+![](image/Shield.jpg)
 
-![Schematic](image/Sch.png)
+![](image/Sch.png)
 
-![Layout](image/Layout.png)
+![](image/Layout.png)
 
-## Dispensing Mechanism
 
-![Dispensing Mechanism](image/deliver.gif)
 
-## Video Demonstration
+## 投放装置
 
-[Watch the Video](https://www.youtube.com/watch?v=084VByHCzTs)
+![](image/deliver.gif)
 
-## Installation and Usage
+## 视频演示
 
-Refer to the [Installation Guide](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md).
+https://www.youtube.com/watch?v=084VByHCzTs
 
-## License
+安装和使用
+--
 
-OmniRob is released under the MIT License. Please refer to the [LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE) file for more information.
+见[安装指南](https://github.com/CassiusXiang/OmniRob/blob/main/Installation.md)
 
-## Contact
+许可证
+---
 
-If you have any questions or feedback, please contact us through [Issues](https://github.com/CassiusXiang/OmniRob/issues).
+OmniRob采用MIT许可证进行发布。请参考[LICENSE](https://github.com/CassiusXiang/OmniRob/blob/main/LICENSE)获取更多信息。
 
-My email: changxiangchina@outlook.com
+联系方式
+----
+
+如果您有任何问题或反馈，请通过[Issues](https://github.com/CassiusXiang/OmniRob/issues)与我们联系。
+
+我的邮箱: changxiangchina@outlook.com
