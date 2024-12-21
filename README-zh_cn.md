@@ -47,13 +47,14 @@ OmniRob是一个基于麦卡纳姆轮的全向移动小车
 
 驱动板使用了4颗AS4950进行电机的驱动，驱动电流最大可达到单路2A
 
-![](image/Shield.jpg)
+设计的Shield板可以直接插在Arduino UNO上，如下图4
 
-![](image/Sch.png)
-
-![](image/Layout.png)
-
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Sch.png" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Layout.png" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
+</div>
 
 ## 投放装置
 

@@ -46,11 +46,14 @@ The motor driver Shield uses a 2-layer PCB design, created with Altium Designer 
 
 The driver board uses four AS4950 chips to drive the motors, with a maximum driving current of up to 2A per channel.
 
-![Shield](image/Shield.jpg)
+The designed Shield board can be directly inserted into the Arduino UNO, as shown in the image 4.
 
-![Schematic](image/Sch.png)
-
-![Layout](image/Layout.png)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Sch.png" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Layout.png" style="width: 45%; max-width: 400px;"/>
+    <img src="image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
+</div>
 
 ## Dispensing Mechanism
 
