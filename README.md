@@ -2,7 +2,8 @@
 
 [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-green)](./README-zh_cn.md)
-![YouTube Video Views](https://img.shields.io/youtube/views/084VByHCzTs?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D084VByHCzTs)
+[![YouTube Video Views](https://img.shields.io/youtube/views/084VByHCzTs)](https://www.youtube.com/watch?v=084VByHCzTs)
+
 
 
 OmniRob is an omnidirectional mobile robot based on Mecanum wheels.
