@@ -51,11 +51,11 @@ Physical Sample
 
 Picture of the assembled physical sample:
 
-![](image/2.jpg)
+![](3.Image/2.jpg)
 
 Wiring diagram:
 
-![](image/3.jpg)
+![](3.Image/3.jpg)
 
 Precautions
 -----------

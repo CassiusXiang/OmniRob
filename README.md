@@ -16,13 +16,13 @@ This project originated from a course I took in the first semester of my freshma
 
 The course required us to design a vehicle that could both follow a track and dispense materials. Similar to traditional line-following cars, this vehicle runs along black lines on a white surface. The difference is that we also needed to equip it with a material storage and dispensing device, allowing the vehicle to accurately dispense objects at intersections on the track.
 
-![Track Layout](image/TrackLayout.png)
+![Track Layout](3.Image/TrackLayout.png)
 
 Thus, the OmniRob open-source project was born. It is an open-source, low-cost, easy-to-assemble, modularly designed Mecanum wheel robot. It uses four DC brushed motors with encoders, controlled by an Arduino. To drive the motors, I also designed a motor driver Shield board for the Arduino, which will be discussed later.
 
 The top and front/back of the vehicle have four modular interfaces for installing different modules. We installed a 4-way infrared sensor at the front and a material storage and dispensing device driven by a servo motor at the top.
 
-![OmniRob](image/2.jpg)
+![OmniRob](3.Image/2.jpg)
 
 ## Components
 
@@ -49,15 +49,15 @@ The driver board uses four AS4950 chips to drive the motors, with a maximum driv
 The designed Shield board can be directly inserted into the Arduino UNO, as shown in the image 4.
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Sch.png" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Layout.png" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Sch.png" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Layout.png" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
 </div>
 
 ## Dispensing Mechanism
 
-![Dispensing Mechanism](image/deliver.gif)
+![Dispensing Mechanism](3.Image/deliver.gif)
 
 ## Video Demonstration
 

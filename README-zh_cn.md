@@ -16,13 +16,13 @@ OmniRob是一个基于麦卡纳姆轮的全向移动小车
 
 课程要求我们设计一款既能循迹又能投放物料的小车。与传统循迹小车类似，该车辆将沿着白色场地中的黑色轨迹运行。不同之处在于，我们还需要为其配备一个物料储存和投放装置，使车辆在轨迹的交叉点处精准投放物体。
 
-![](image/TrackLayout.png)
+![](3.Image/TrackLayout.png)
 
 所以便有了OmniRob这个开源项目，他是一个开源的、低成本的、组装简单的、模块化设计的麦卡纳姆轮小车。使用4个编码器直流有刷电机驱动，控制器使用Arduino，为了驱动电机，我还使用为Arduino设计了一块电机驱动Shield板，后面会提到。
 
 车辆上端和前后一共有4个模块化接口，可以安装不同的模块，我们的前端安装了一个4路红外传感器，上端安装了一个由舵机驱动的物料储存与投放装置。
 
-![](image/2.jpg)
+![](3.Image/2.jpg)
 
 材料表
 --
@@ -50,15 +50,15 @@ OmniRob是一个基于麦卡纳姆轮的全向移动小车
 设计的Shield板可以直接插在Arduino UNO上，如下图4
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Sch.png" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Layout.png" style="width: 45%; max-width: 400px;"/>
-    <img src="image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Shield.jpg" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Sch.png" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Layout.png" style="width: 45%; max-width: 400px;"/>
+    <img src="3.Image/Shield_and_UNO.jpg" style="width: 45%; max-width: 400px;"/>
 </div>
 
 ## 投放装置
 
-![](image/deliver.gif)
+![](3.Image/deliver.gif)
 
 ## 视频演示
 
