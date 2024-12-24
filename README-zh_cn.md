@@ -77,6 +77,4 @@ OmniRob采用MIT许可证进行发布。请参考[LICENSE](https://github.com/Ca
 联系方式
 ----
 
-如果您有任何问题或反馈，请通过[Issues](https://github.com/CassiusXiang/OmniRob/issues)与我们联系。
-
 我的邮箱: changxiangchina@outlook.com

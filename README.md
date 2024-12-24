@@ -73,6 +73,4 @@ OmniRob is released under the MIT License. Please refer to the [LICENSE](https:/
 
 ## Contact
 
-If you have any questions or feedback, please contact us through [Issues](https://github.com/CassiusXiang/OmniRob/issues).
-
 My email: changxiangchina@outlook.com
